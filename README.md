@@ -1,3 +1,25 @@
+# important: this repository won't be maintained 
+
+for a GPU miner supporting TUNA V2 go to:
+https://github.com/nullhashpixel/bigeye
+
+
+````
+
+
+
+this miner is for V1 only and not compatible with V2 hard-fork
+
+
+
+
+````
+
+
+
+
+# instructions for legacy V1 TUNA below
+
 # cltunaminer core
 Experimental OpenCL based miner for TUNA
 
